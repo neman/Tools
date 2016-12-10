@@ -6,6 +6,9 @@ Fiddler http://www.telerik.com/fiddler
 Poshgit https://chocolatey.org/packages/poshgit   
 Free and open source software for video recording and live streaming https://obsproject.com/     
 
+###Powershell
+Pester provides a framework for running unit tests to execute and validate PowerShell commands from within PowerShell https://github.com/pester/Pester
+
 
 ###SQL 
 Plan Explorer https://www.sentryone.com/plan-explorer    
