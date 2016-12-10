@@ -8,7 +8,7 @@ Free and open source software for video recording and live streaming https://obs
 
 ###Powershell
 Pester provides a framework for running unit tests to execute and validate PowerShell commands from within PowerShell https://github.com/pester/Pester    
-DBA Tools https://dbatools.io   
+
 
 
 ###DBA/SQL 
