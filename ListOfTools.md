@@ -23,3 +23,7 @@ DBA Tools https://dbatools.io
 ###Visual Studio Extensions    
 Visual Studio Spell Checker https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellChecker
 
+
+###Other
+`EditorConfig`  is an open source file format that helps developers configure and enforce formatting and code style conventions to achieve consistent, more readable codebases. http://editorconfig.org/
+
