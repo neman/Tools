@@ -1,12 +1,12 @@
-
-LinqPad https://www.linqpad.net/   
-mRemoteNG http://www.mremoteng.org/   
-Postman https://www.getpostman.com/    
-Fiddler http://www.telerik.com/fiddler    
-Poshgit https://chocolatey.org/packages/poshgit   
-Free and open source software for video recording and live streaming https://obsproject.com/     
-Video editing https://www.blackmagicdesign.com/products/davinciresolve    
-NuGet PackageExplorer https://github.com/NuGetPackageExplorer/NuGetPackageExplorer
+* LinqPad https://www.linqpad.net/   
+* mRemoteNG http://www.mremoteng.org/   
+* Postman https://www.getpostman.com/    
+* Fiddler http://www.telerik.com/fiddler    
+* Poshgit https://chocolatey.org/packages/poshgit   
+* Free and open source software for video recording and live streaming https://obsproject.com/     
+* Video editing https://www.blackmagicdesign.com/products/davinciresolve    
+* NuGet PackageExplorer https://github.com/NuGetPackageExplorer/NuGetPackageExplorer
+* ConEmu ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one  customizable GUI window with various features. https://conemu.github.io/
 
 ###Powershell
 Pester provides a framework for running unit tests to execute and validate PowerShell commands from within PowerShell https://github.com/pester/Pester    
