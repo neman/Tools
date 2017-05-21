@@ -7,13 +7,14 @@
 * Video editing https://www.blackmagicdesign.com/products/davinciresolve    
 * NuGet PackageExplorer https://github.com/NuGetPackageExplorer/NuGetPackageExplorer
 * ConEmu ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one  customizable GUI window with various features. https://conemu.github.io/
+* ScreenToGif - Screen, webcam and sketchboard recorder with an integrated editor. http://www.screentogif.com/ 
 
-###Powershell
+### Powershell
 Pester provides a framework for running unit tests to execute and validate PowerShell commands from within PowerShell https://github.com/pester/Pester    
 
 
 
-###DBA/SQL 
+### DBA/SQL 
 Plan Explorer https://www.sentryone.com/plan-explorer    
 SQL Search - https://www.red-gate.com/products/sql-development/sql-search/   
 DBA Reports https://dbareports.io/    
@@ -21,10 +22,10 @@ DBA Tools https://dbatools.io
 
 
 
-###Visual Studio Extensions    
+### Visual Studio Extensions    
 Visual Studio Spell Checker https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellChecker
 
 
-###Other
+### Other
 `EditorConfig`  is an open source file format that helps developers configure and enforce formatting and code style conventions to achieve consistent, more readable codebases. http://editorconfig.org/
 
