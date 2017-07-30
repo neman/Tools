@@ -1,4 +1,5 @@
 * LinqPad https://www.linqpad.net/   
+* NimbleText http://nimbletext.com/
 * mRemoteNG http://www.mremoteng.org/   
 * Postman https://www.getpostman.com/    
 * Fiddler http://www.telerik.com/fiddler    
