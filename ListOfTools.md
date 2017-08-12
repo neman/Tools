@@ -28,6 +28,7 @@ DBA Tools https://dbatools.io
 
 ### Visual Studio Extensions    
 Visual Studio Spell Checker https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellChecker
+ConEmu integration https://marketplace.visualstudio.com/items?itemName=DavidRoller.ConEmuIntegration
 
 
 
