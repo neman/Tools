@@ -11,6 +11,7 @@
 * ScreenToGif - Screen, webcam and sketchboard recorder with an integrated editor. http://www.screentogif.com/ 
 * CamStudio - is able to record all screen and audio activity on your computer and create industry-standard AVI video files and using its built-in SWF Producer can turn those AVIs into lean, mean, bandwidth-friendly Streaming Flash videos (SWFs) http://camstudio.org/
 * Greenshot is a light-weight screenshot software tool for Windows - http://getgreenshot.org/
+* Clink - Powerful Bash-style command line editing for cmd.exe http://mridgers.github.io/clink/
 
 ### Powershell
 Pester provides a framework for running unit tests to execute and validate PowerShell commands from within PowerShell https://github.com/pester/Pester    
@@ -27,6 +28,7 @@ DBA Tools https://dbatools.io
 
 ### Visual Studio Extensions    
 Visual Studio Spell Checker https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellChecker
+
 
 
 ### Other
