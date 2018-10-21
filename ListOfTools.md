@@ -38,5 +38,5 @@ Code Maid https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.C
 `EditorConfig`  is an open source file format that helps developers configure and enforce formatting and code style conventions to achieve consistent, more readable codebases. http://editorconfig.org/
 
 ### Web sites
-http://firstaidgit.io
-https://google-webfonts-helper.herokuapp.com/fonts
+* http://firstaidgit.io    
+* https://google-webfonts-helper.herokuapp.com/fonts
