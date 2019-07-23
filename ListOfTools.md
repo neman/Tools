@@ -14,6 +14,7 @@
 * Clink - Powerful Bash-style command line editing for cmd.exe http://mridgers.github.io/clink/
 * Meld - Compare files http://meldmerge.org/
 * Darwio - For various diagrams https://www.draw.io
+* Papercut - Papercut Simple Desktop SMTP Server https://github.com/ChangemakerStudios/Papercut
 ### Powershell
 Pester provides a framework for running unit tests to execute and validate PowerShell commands from within PowerShell https://github.com/pester/Pester    
 
