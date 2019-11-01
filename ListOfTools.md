@@ -15,6 +15,7 @@
 * Meld - Compare files http://meldmerge.org/
 * Darwio - For various diagrams https://www.draw.io
 * Papercut - Papercut Simple Desktop SMTP Server https://github.com/ChangemakerStudios/Papercut
+* Ditto - Ditto is an extension to the standard windows clipboard. https://ditto-cp.sourceforge.io/
 ### Powershell
 Pester provides a framework for running unit tests to execute and validate PowerShell commands from within PowerShell https://github.com/pester/Pester    
 
