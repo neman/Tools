@@ -13,7 +13,7 @@
 * Greenshot is a light-weight screenshot software tool for Windows - http://getgreenshot.org/
 * Clink - Powerful Bash-style command line editing for cmd.exe http://mridgers.github.io/clink/
 * Meld - Compare files http://meldmerge.org/
-* Darwio - For various diagrams https://www.draw.io
+* Drawio - For various diagrams https://www.draw.io
 * Papercut - Papercut Simple Desktop SMTP Server https://github.com/ChangemakerStudios/Papercut
 * Ditto - Ditto is an extension to the standard windows clipboard. https://ditto-cp.sourceforge.io/
 ### Powershell
